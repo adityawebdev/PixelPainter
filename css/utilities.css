@@ -1,0 +1,37 @@
+:root {
+  --bgcolor: rgb(13, 201, 201);
+  --font1: "Baloo Bhaina 2", cursive;
+  --font2: "Roboto", sans-serif;
+}
+.max-width1 {
+  max-width: 80vw;
+}
+
+.max-width2 {
+  max-width: 60vw;
+}
+.my-2 {
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+.m-auto {
+  margin: auto;
+}
+.font1 {
+  font-family: var(--font1);
+}
+.font2 {
+  font-family: var(--font2);
+}
+.mx-1 {
+  margin-left: 23px;
+  margin-right: 23px;
+}
+
+.my-2 {
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+.center {
+  text-align: center;
+}
